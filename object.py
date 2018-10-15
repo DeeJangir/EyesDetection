@@ -1,4 +1,4 @@
-import numpy as np
+# Deepak Jangir
 import cv2
 eye_cascade = cv2.CascadeClassifier('eye.xml')
 video = cv2.VideoCapture(0)
